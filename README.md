@@ -4,7 +4,7 @@ A starter kit for driving a roombot.
 
 ## Driving The Simulator
 
-There is an online simulator you can use to test your code at http://roombots.riesd.com/simulator.
+There is an online simulator you can use to test your code at http://roombots.mx.com/simulations.
 Once you have a simulation open it will tell you which channel you should connect to.
 Now clone this repository to your computer and edit the `app.js` file so the channel matches the suggestion from the simulator.
 
